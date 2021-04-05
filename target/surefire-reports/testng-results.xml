@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-05T13:35:06 IST" name="ITCTestCases" finished-at="2021-04-05T13:36:04 IST" duration-ms="57682">
+    <groups>
+    </groups>
+    <test started-at="2021-04-05T13:35:06 IST" name="Test 1" finished-at="2021-04-05T13:36:04 IST" duration-ms="57682">
+      <class name="TestScript.TestLoginScenario">
+        <test-method is-config="true" signature="beforeSuite(java.lang.String, org.testng.ITestContext)[pri:0, instance:TestScript.TestLoginScenario@6ed3ccb2]" started-at="2021-04-05T13:35:03 IST" name="beforeSuite" finished-at="2021-04-05T13:35:06 IST" duration-ms="3417" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@67594471]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="setDriver(java.lang.String, org.testng.ITestContext)[pri:0, instance:TestScript.TestLoginScenario@6ed3ccb2]" started-at="2021-04-05T13:35:06 IST" name="setDriver" finished-at="2021-04-05T13:35:51 IST" duration-ms="44654" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@67594471]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestScript.TestLoginScenario@6ed3ccb2]" started-at="2021-04-05T13:35:51 IST" name="beforeMethod" finished-at="2021-04-05T13:35:51 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScript.TestLoginScenario.verifyLoginPage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestScript.TestLoginScenario@6ed3ccb2]" started-at="2021-04-05T13:35:51 IST" name="afterMethod" finished-at="2021-04-05T13:35:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="verifyLoginPage()[pri:0, instance:TestScript.TestLoginScenario@6ed3ccb2]" started-at="2021-04-05T13:35:51 IST" name="verifyLoginPage" finished-at="2021-04-05T13:36:04 IST" duration-ms="12767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:TestScript.TestLoginScenario@6ed3ccb2]" started-at="2021-04-05T13:36:04 IST" name="closeDriver" finished-at="2021-04-05T13:36:04 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScript.TestLoginScenario@6ed3ccb2]" started-at="2021-04-05T13:36:04 IST" name="tearDown" finished-at="2021-04-05T13:36:05 IST" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScript.TestLoginScenario -->
+    </test> <!-- Test 1 -->
+  </suite> <!-- ITCTestCases -->
+</testng-results>

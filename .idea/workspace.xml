@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6f61514-69e5-4e44-bf24-68a127496b28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pNUz0janqYrSQVwbItD8DptYrX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.F:/SeleniumGridProject/src/main/resources/testng1.xml">
+    <configuration name="F:/SeleniumGridProject/src/main/resources/testng1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGridProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng1.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F:/SeleniumGridProject/testng1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGridProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng1.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F:/SeleniumGridProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGridProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumFramework" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumGridProject" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="SeleniumFramework" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestITCSelectAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGridProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestScript" />
+      <option name="MAIN_CLASS_NAME" value="TestScript.TestITCSelectAccount" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGridProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestScript" />
+      <option name="MAIN_CLASS_NAME" value="TestScript.TestLoginScenario" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumGridProject" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.SeleniumFramework" />
+      <item itemvalue="TestNG.F:/SeleniumGridProject/testng.xml" />
+      <item itemvalue="TestNG.TestITCSelectAccount" />
+      <item itemvalue="TestNG.F:/SeleniumGridProject/testng1.xml" />
+      <item itemvalue="TestNG.TestLoginScenario" />
+      <item itemvalue="TestNG.F:/SeleniumGridProject/src/main/resources/testng1.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.F:/SeleniumGridProject/src/main/resources/testng1.xml" />
+        <item itemvalue="TestNG.F:/SeleniumGridProject/testng1.xml" />
+        <item itemvalue="TestNG.TestITCSelectAccount" />
+        <item itemvalue="TestNG.TestLoginScenario" />
+        <item itemvalue="TestNG.F:/SeleniumGridProject/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6f61514-69e5-4e44-bf24-68a127496b28" name="Default Changelist" comment="" />
+      <created>1615023299976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615023299976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="35" key="#&lt;default&gt;" timestamp="1615032433195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="35" key="#&lt;default&gt;/0.0.1366.728@0.0.1366.728" timestamp="1615032433195" />
+    <state x="402" y="35" key="#&lt;default&gt;_(1)" timestamp="1615048134954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="35" key="#&lt;default&gt;_(1)/0.0.1366.728@0.0.1366.728" timestamp="1615048134954" />
+    <state x="402" y="35" key="#&lt;default&gt;_(2)" timestamp="1615049038820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="35" key="#&lt;default&gt;_(2)/0.0.1366.728@0.0.1366.728" timestamp="1615049038820" />
+    <state x="284" y="26" key="#Project_Structure" timestamp="1616919577259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="284" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1616919577259" />
+    <state x="402" y="35" width="576" height="658" key="#SeleniumGrid" timestamp="1615031674980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="35" width="576" height="658" key="#SeleniumGrid/0.0.1366.728@0.0.1366.728" timestamp="1615031674980" />
+    <state x="422" y="123" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1615111070624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="123" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1615111070624" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615048580262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1615048580262" />
+    <state x="413" y="146" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1615049034990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="146" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1615049034990" />
+    <state x="493" y="234" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615058956458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="493" y="234" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1615058956458" />
+    <state width="1306" height="150" key="GridCell.Tab.0.bottom" timestamp="1616931716695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616931716695" />
+    <state width="1306" height="150" key="GridCell.Tab.0.center" timestamp="1616931716695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="150" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616931716695" />
+    <state width="1306" height="150" key="GridCell.Tab.0.left" timestamp="1616931716694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="150" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616931716694" />
+    <state width="1306" height="150" key="GridCell.Tab.0.right" timestamp="1616931716695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="150" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616931716695" />
+    <state x="508" y="146" key="chooseDestDirectoryDialog" timestamp="1615454772346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="146" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1615454772346" />
+    <state x="400" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1615351101039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1615351101039" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1615033167248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1615033167248" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ITCTestCases">
+    <test name="Test 1">
+       <!-- <parameter name="browser" value="firefox" /> -->
+        <classes>
+            <class name="TestScript.TestLoginScenario"/>
+        </classes>
+    </test>
+    <!--<test name="Test 2">
+      &lt;!&ndash;  <parameter name="browser" value="firefox" />  &ndash;&gt;
+        <classes>
+            <class name="TestScript.TestITCSelectAccount"/>
+        </classes>
+    </test>-->
+</suite>
